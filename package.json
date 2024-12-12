@@ -1,0 +1,21 @@
+{
+  "name": "deku-theme",
+  "displayName": "Deku Theme",
+  "description": "A color theme inspired in Izuku Midoriya from MHA",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deku Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deku Theme-color-theme.json"
+      }
+    ]
+  }
+}
