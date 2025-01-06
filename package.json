@@ -1,8 +1,19 @@
 {
-  "name": "deku-theme",
+  "name": "deku-myHeroAcademia-theme",
   "displayName": "Deku Theme",
-  "description": "A color theme inspired in Izuku Midoriya from MHA",
+  "description": "This theme is an override of the Github's dark theme, but using colors to reflect the costume of Deku in the anime series My Hero Academia.",
   "version": "0.0.1",
+  "publisher": "miguesgo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguesgo/DekuVisualStudioCodeTheme.git"
+  },
+  "keywords": [
+    "theme",
+    "deku",
+    "my hero academia",
+    "vscode"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
