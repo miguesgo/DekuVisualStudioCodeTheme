@@ -1,7 +1,9 @@
 /*
-	This theme json file was based in the Dark Github theme
+	This theme is an override of the Github's dark theme,
+	but using colors to reflect the costume of Deku in the
+	anime series My Hero Academia.
+	PLUS ULTRA!
 */
-
 {
 	"name": "Deku Theme",
 	"colors": {
@@ -85,7 +87,6 @@
 	  "statusBarItem.remoteForeground": "#fafaff",
 	  "statusBarItem.remoteBackground": "#191d20",
 	  "statusBar.noFolderForeground": "#fafaff",
-	  "statusBarItem.activeBackground": "#183030",
 	  "editorGroupHeader.tabsBackground": "#191d20",
 	  "editorGroupHeader.tabsBorder": "#191d20",
 	  "editorGroup.border": "#1b1f23",
@@ -105,14 +106,14 @@
 	  "breadcrumb.activeSelectionForeground": "#d1d5da",
 	  "breadcrumbPicker.background": "#2b3036",
 	  "editor.foreground": "#e1e4e8",
-	  "editor.background": "#181818",
+	  "editor.background": "#24292e",
 	  "editorWidget.background": "#1f2428",
 	  "editor.foldBackground": "#0077ff15",
 	  "editor.lineHighlightBackground": "#1f2428",
 	  "editorLineNumber.foreground": "#636e79",
 	  "editorLineNumber.activeForeground": "#fafaff",
-	  "editorIndentGuide.background": "#2f363d",
-	  "editorIndentGuide.activeBackground": "#444d56",
+	  "editorIndentGuide.background1": "#2f363d",
+	  "editorIndentGuide.activeBackground1": "#444d56",
 	  "editorWhitespace.foreground": "#444d56",
 	  "editorCursor.foreground": "#fafaff",
 	  "editorError.foreground": "#f97583",
@@ -188,8 +189,6 @@
 	  "peekViewResult.background": "#1f2428",
 	  "settings.headerForeground": "#e1e4e8",
 	  "settings.modifiedItemIndicator": "#0366d6",
-	  "welcomePage.buttonBackground": "#2f363d",
-	  "welcomePage.buttonHoverBackground": "#444d56",
 	  "minimap.background": "#24292e",
 	  "minimapSlider.hoverBackground": "#082B2F",
 	  "menu.background": "#24292e",
