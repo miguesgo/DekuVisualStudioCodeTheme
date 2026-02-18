@@ -2,6 +2,10 @@
 
 This theme is an override of the Github's dark theme, but using colors to reflect the costume of Deku in the anime series My Hero Academia.
 
+You can install it on your VSCode from here:
+
+https://marketplace.visualstudio.com/items?itemName=miguesgo.deku-myHeroAcademia-theme
+
 **PLUS ULTRA!**
 
 ![image](https://github.com/user-attachments/assets/cc920f0b-13d3-4cee-9622-ff1802ff84d7)
